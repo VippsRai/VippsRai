@@ -2,7 +2,7 @@
 
 - 🔭 I’m M.C.A student, Dr.Harisingh Gaur Vishwavidyalaya, Sagar, Madhya Pradesh
 
-- 🌱 I’m currently learning Java8, JavaScript, HTML5, CSS3, Dart, Flutter, Python
+- 🌱 I’m currently learning Java8, JavaScript, HTML5, CSS3
 
 - 👯 I’m looking to collaborate on Google's Code
 
