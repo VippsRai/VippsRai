@@ -1,6 +1,6 @@
 ## 🧔  Hi there 👋
 
-- 🔭 I’m M.C.A student, Dr.Harisingh Gaur Sagar University
+- 🔭 I’m M.C.A student, Dr.Harisingh Gaur Vishwavidyalaya, Sagar, Madhya Pradesh
 
 - 🌱 I’m currently learning Java8, JavaScript, HTML5, CSS3, Dart, Flutter, Python
 
