@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**VippsRai/VippsRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 🧔 About Me
+## 🧔  Hi there 👋
 
 - 🔭 I’m M.C.A student, Dr.Harisingh Gaur Sagar University
 
