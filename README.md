@@ -23,8 +23,8 @@
 
 [![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=VippsRai&repo=HomeInventory)](https://github.com/VippsRai)
 
-
 [![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=VippsRai&repo=LoanAssistant)](https://github.com/VippsRai)
+
 
 ## 📚 My Skills
 
