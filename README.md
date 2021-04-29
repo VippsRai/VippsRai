@@ -19,6 +19,13 @@
 
 <hr>
 
+### Here are some of my projects on Github that I am proud of:
+
+[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=VippsRai&repo=HomeInventory)](https://github.com/VippsRai)
+
+
+[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=VippsRai&repo=LoanAssistant)](https://github.com/VippsRai)
+
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vippsrai&layout=compact&show_icons=true&theme=dark)](https://github.com/VippsRai/VippsRai)
